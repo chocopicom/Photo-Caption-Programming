@@ -3,8 +3,6 @@
 ![RUSH HOUR](image.png)
 
 ```javascript
-#!javascript
-
 var train = [];
 while (1) {
 	try {
